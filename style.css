@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    
+ }
+ .container{
+    width: 400px;
+    padding: 33px;
+    text-align: center;
+    background-color: #e0cdcd;
+    margin-left: 35%;
+    margin-top: 10px;
+ }
+ input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(22, 99, 99);
+    outline: none;
+    font-size: 19px;
+
+
+ }
+ button{
+    width: 60px;
+    height: 41px;
+    background-color: rgb(4, 29, 29);
+    color: white;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+ }
+ .text ul{
+    position: relative;
+    background-color: rgb(2, 10, 10);
+    color: rgb(241, 250, 250);
+    font-size: 19px;
+    padding: 10px;
+    text-align: left;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
